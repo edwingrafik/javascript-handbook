@@ -115,7 +115,7 @@ var secondName = 'Deep';
 
 Słowa kluczowe w JavaScript służą do identyfikowania akcji jaką język ma wykonać. W JavaScript nie można używać tych zarezerwowanych słów jako zmiennych, etykiet lub nazw funkcji:
 |||||
-|:-:|:-:|:-:|:-:|
+|:---:|:---:|:---:|:---:|
 |abstract|arguments|await|boolean|
 |break|byte|case|catch|
 |char|class|const|continue|
